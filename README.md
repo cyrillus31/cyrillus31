@@ -1,8 +1,8 @@
 ### Hi! I'm Kirill Fedtsov! [@cyrillys31](https://t.me/cyrillus31) 👋
 I'm an aspiring Python developer  
 
-#### Here are some of the technologies that is use  
-### Backend
+### Here are some of the technologies that is use  
+#### Backend
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-eebb77?style=for-the-badge&logo=Python">
   <a href="https://fastapi.tiangolo.com/">
@@ -16,7 +16,7 @@ I'm an aspiring Python developer
   <img src="https://img.shields.io/badge/-nginx-11458a?style=for-the-badge&logo=nginx">
 </p>
 
-### Frontend
+#### Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML-11458a?style=for-the-badge&logo=html5">
   <img src="https://img.shields.io/badge/-css-eebb77?style=for-the-badge&logo=css3">
