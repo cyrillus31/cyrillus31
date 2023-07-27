@@ -9,6 +9,7 @@ I'm an aspiring Python developer
 |Frontend|<img src="https://img.shields.io/badge/-HTML-11458a?style=for-the-badge&logo=html5"><img src="https://img.shields.io/badge/-css-eebb77?style=for-the-badge&logo=css3">|
 |Data|<img src="https://img.shields.io/badge/-pandas-11458a?style=for-the-badge&logo=pandas">
 
+### Check out my projects below! 
 <!--
 **cyrillus31/cyrillus31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
