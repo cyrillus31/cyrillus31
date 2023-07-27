@@ -1,7 +1,7 @@
 ### Hi! I'm Kirill Fedtsov! [@cyrillys31](https://t.me/cyrillus31) 👋
 I'm an aspiring Python developer  
 
-#### Here are some of the technologies that is use
+#### Here are some of the technologies that I use
 
 |Field|Technology|
 |-----|----------|
