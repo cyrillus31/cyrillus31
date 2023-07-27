@@ -5,7 +5,7 @@ I'm an aspiring Python developer
 
 |Field|Technology|
 |-----|----------|
-|Backend|<img src="https://img.shields.io/badge/-Python-11458a?style=for-the-badge&logo=Python"><a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-fastAPI-eebb77?style=for-the-badge&logo=FastAPI"></a><img src="https://img.shields.io/badge/-docker-11458a?style=for-the-badge&logo=docker"><img src="https://img.shields.io/badge/-sqlalchemy-eebb77?style=for-the-badge&logo=sqlalchemy"><img src="https://img.shields.io/badge/-bash-11458a?style=for-the-badge&logo=linux"><img src="https://img.shields.io/badge/-git-eebb77?style=for-the-badge&logo=git"><img src="https://img.shields.io/badge/-nginx-11458a?style=for-the-badge&logo=nginx">|
+|Backend|<img src="https://img.shields.io/badge/-Python-eebb77?style=for-the-badge&logo=Python"><a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-fastAPI-11458a?style=for-the-badge&logo=FastAPI"></a><img src="https://img.shields.io/badge/-Postgresql-eebb77?style=for-the-badge&logo=Postgresql"><img src="https://img.shields.io/badge/-docker-11458a?style=for-the-badge&logo=docker"><img src="https://img.shields.io/badge/-sqlalchemy-eebb77?style=for-the-badge&logo=sqlalchemy"><img src="https://img.shields.io/badge/-bash-11458a?style=for-the-badge&logo=linux"><img src="https://img.shields.io/badge/-git-eebb77?style=for-the-badge&logo=git"><img src="https://img.shields.io/badge/-nginx-11458a?style=for-the-badge&logo=nginx">|
 |Frontend|<img src="https://img.shields.io/badge/-HTML-11458a?style=for-the-badge&logo=html5"><img src="https://img.shields.io/badge/-css-eebb77?style=for-the-badge&logo=css3">|
 |Data|<img src="https://img.shields.io/badge/-pandas-11458a?style=for-the-badge&logo=pandas">
 
