@@ -3,58 +3,56 @@ I'm an aspiring Python developer
 
 # 💻 Tech Stack:
 
-## Language:
+### Language:
 <div align="left">
-	<a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+	<a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>  
 	<img width="12" />  
-	<img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
+	<img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
 
-###
-
-## Backend:
+### Backend:
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="50" alt="pytest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
   <img width="12" />
-  <a href="https://www.nginx.com/"><img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a> 
+  <a href="https://www.nginx.com/"><img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" /></a> 
   <img width="12" />
-  <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
+  <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="40" /></a>  
 </div>
 
 
-## Databases:
+### Databases:
 <div align='left'>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" /></a>  
   <img width="12" />
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="50"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="40"/> </a>
   <img width="12" />
-  <a href="https://redis.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="40" /></a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="50" alt="sqlalchemy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
   <img width="12" />
 </div>
 
-## Frontend:
+### Frontend:
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-## DevOps:
+### DevOps:
 <div align="left">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
   <img width="12" />
-  <a href="https://github.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+  <a href="https://github.com/" target="_blank"><img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>
   <img width="12" />  
-  <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" /></a>
   <img width="12" />  
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   
 </div>
 
