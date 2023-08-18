@@ -3,7 +3,7 @@ I'm an aspiring Python developer
 
 # 💻 Tech Stack:
 
-### Language:
+### Languages:
 <div align="left">
 	<a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>  
 	<img width="12" />  
