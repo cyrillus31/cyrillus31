@@ -1,5 +1,5 @@
 ### 💫 Hi! I'm Kirill Fedtsov! [@cyrillys31](https://t.me/cyrillus31) 👋
-Backend Enginner | DevOps | Go | Python
+Backend Engineer | DevOps | Go | Python
 
 # 💻 Tech Stack:
 |          |Technologies|
